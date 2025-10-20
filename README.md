@@ -4,4 +4,4 @@ Technologies used: HTML and CSS.
 
 How to open the website: Open the index.html file in a browser by double-clicking it.
 
-The URL provided by GitHub is: https://SleepingMartyr.github.io/Exercise_Unit5_website
+The URL provided by GitHub is: https://sleepingmartyr.github.io/Exercise_Unit5_website/
