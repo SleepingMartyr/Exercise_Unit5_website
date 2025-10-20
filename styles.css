@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    font-family: "Times New Roman", serif;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #8B0000;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #8B0000;
+}
+
+footer {
+    color: gray;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
